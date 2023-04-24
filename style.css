@@ -45,10 +45,12 @@
     color: #fff;
     text-decoration: none;
     transition: all 0.3s ease;
+    font-weight:bold;
   }
   
   nav a:hover {
     color: #f44336;
+    font-weight:bold;
   }
   
   /* Main Styles */
